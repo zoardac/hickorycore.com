@@ -1,7 +1,7 @@
 {
   "name": "eleventy-starter",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0" 
+    "@11ty/eleventy": "^3.2.0"
   },
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
